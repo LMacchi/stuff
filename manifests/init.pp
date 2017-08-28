@@ -7,5 +7,5 @@
 # @example
 #   include stuff
 class stuff {
-  notify { "Pretty stuff": }
+  notify { "Cute stuff": }
 }
